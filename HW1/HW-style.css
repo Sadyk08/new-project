@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    width: 847px;
+    margin: auto;
+}
+.container h1{
+    text-transform: uppercase;
+
+}
+.regist{
+    width: 100%;
+    background-color: black;
+    height: 95px;
+}
+.regist-text{
+
+    text-transform: uppercase;
+    color: white;
+    margin-top: 30px;
+}
+.regist-text h1{
+
+}
+.regist-text h2{
+
+}
+.open{
+    width: 100%;
+    background-color: #c4c4c4;
+    height: 95px;
+    margin-top: 4px;
+}
+.open-text {
+    text-transform: uppercase;
+}
+.center-logo{
+height: 210px;
+width: 847px;
+padding-top: 32px;
+
+
+}
+.center-logo a{
+
+float: left;
+}
+
+.second-logo{
+    padding-top: 50px;
+    height: 210px;
+    width: 847px;
+}
+.second-logo a{
+    float: left;
+}
+.coffe{
+    width: 100%;
+    background-color: black;
+    height: 95px;
+    margin-top: 35px;
+}
+.coffe-text{
+    color: white;
+    text-transform: uppercase;
+}
